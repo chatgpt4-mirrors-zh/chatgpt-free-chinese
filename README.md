@@ -1,5 +1,5 @@
 # chatgpt-free-chinese
-国内中文免费 ChatGPT 镜像网站推荐【12月持续更新】可在线使用
+国内中文免费 ChatGPT 镜像网站推荐【12月3日持续更新】可在线使用
 想使用免费 ChatGPT 中文版？无需翻墙，支持 ChatGPT-4，可无限次使用 GPT-4o 和 o1-preview
 
 我们整理了一些国内可免费使用的 ChatGPT 免费中文版，为国内用户提供便利。
