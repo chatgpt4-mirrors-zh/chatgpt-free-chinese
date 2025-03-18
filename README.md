@@ -1,30 +1,30 @@
-# 国内中文免费ChatGPT镜像网站推荐【3月14日持续更新】
+# 国内中文免费ChatGPT镜像网站推荐【3月18日持续更新】
 
 想使用免费ChatGPT中文版？无需翻墙，支持ChatGPT-4，可无限次使用GPT-4o和o3mini。
 
 我们整理了一些国内可免费使用的ChatGPT免费中文版，为国内用户提供便利。
 
-## 免费的 ChatGPT 中文版
+## 免费的chatgpt中文版
 
-- [https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html) - ChatGPT 中文版，运营近两年，支持 3.5、4.0、GPT-4o 和 o1 等 ChatGPT 模型，以及 AI 绘画，扫码即可使用。
-- [https://www.dk82.com/17.html](https://www.dk82.com/17.html) - ChatGPT 镜像网站，运营近两年，支持 GPT4、4o、o1，提供 AI 文件、PPT、助手、插件和思维导图功能。
+- [https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html) -chatgpt中文版，运营近两年，支持 3.5、4.0、GPT-4o 和 o1 等chatgpt模型，以及 AI 绘画，扫码即可使用。
+- [https://www.dk82.com/17.html](https://www.dk82.com/17.html) -chatgpt镜像网站，运营近两年，支持 GPT4、4o、o1，提供 AI 文件、PPT、助手、插件和思维导图功能。
 - [https://chatgpt.dk82.com/](https://chatgpt.dk82.com/) - 免费 ChatGPT，运营一年多，支持 GPT4、4o，兼容 AI 绘画（Midjourney 和 Dall·E）。
 
   - ChatGPT-4 镜像，支持 GPT4、4o，使用简便。
   - ChatGPT工具站，支持各种AI工具，你想要的，这儿全有。
 
-## 什么是 ChatGPT 中文版？
+## 什么是chatgpt中文版？
 
-ChatGPT 中文版是基于 OpenAI 的 ChatGPT 模型开发的，专为国内用户设计，提供直接访问的中文网站。
+ChatGPT 中文版是基于 OpenAI 的chatgpt模型开发的，专为国内用户设计，提供直接访问的中文网站。
 
 - **无需翻墙**：直接在国内使用，无需购买额外工具。
 - **中文版本**：提供中文界面，支持更好的中文语言和内容。
 - **无限使用**：不受官网 GPT-4o（每 3 小时 80 次）和 o1（每周 50 次）的限制，提供无限次使用。
 - **本地化特色**：支持 AI 绘画、AI 知识库、AI 思维导图、AI 文件、AI PPT 等多种实用功能，特别适合国内用户。
 
-## ChatGPT 官网与 ChatGPT 中文版的区别
+##chatgpt官网与chatgpt中文版的区别
 
-| 对比项          | ChatGPT 官网         | ChatGPT 中文版（镜像网站）     |
+| 对比项          |chatgpt官网         |chatgpt中文版（镜像网站）     |
 |-----------------|----------------------|--------------------------------|
 | 访问方式        | 需要翻墙             | 无需翻墙，国内即可使用         |
 | 语言支持        | 多语言（中文优化不足）| 专注中文优化，响应更精准       |
@@ -33,7 +33,7 @@ ChatGPT 中文版是基于 OpenAI 的 ChatGPT 模型开发的，专为国内用�
 | 免费使用        | 免费额度有限，需购买套餐 | 部分镜像站提供免费使用         |
 | 注册流程        | 需海外手机号或邮箱注册 | 扫码或手机登录，更方便         |
 
-总结：如果你在国内，推荐使用 ChatGPT 中文版镜像网站。
+总结：如果你在国内，推荐使用chatgpt中文版镜像网站。
 
 ## 常见问题答疑
 
