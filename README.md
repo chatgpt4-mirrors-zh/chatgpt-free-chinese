@@ -1,4 +1,4 @@
-# 国内中文免费ChatGPT镜像网站推荐【5月15日持续更新】
+# 国内中文免费ChatGPTo4镜像网站推荐【5月18日持续更新】
 
 想使用免费ChatGPT中文版？无需翻墙，支持ChatGPT4.1，可无限次使用GPT4o和o4mini。
 
@@ -7,7 +7,7 @@
 ## 免费的chatgpt中文版
 
 - [https://www.soruxgpt.top/282.html](https://www.soruxgpt.top/282.html) -chatgpt中文版，运营近两年，支持 gpt4.5、4.1、GPT4o 和 o3等chatgpt模型，以及 AI 绘画，扫码即可使用。
-- [https://www.dk82.com/17.html](https://www.dk82.com/17.html) -chatgpt镜像网站，运营近两年，支持 GPT4、4o、o1，提供 AI 文件、PPT、助手、插件和思维导图功能。
+- [https://www.dk82.com/17.html](https://www.dk82.com/17.html) -chatgpt镜像网站，运营近两年，支持 GPTo4mioni、4o、o1，提供 AI 文件、PPT、助手、插件和思维导图功能。
 - [https://chatgpt.dk82.com/](https://chatgpt.dk82.com/) - 免费 ChatGPT，运营一年多，支持 GPT4、4o，兼容 AI 绘画（Midjourney 和 Dall·E）。
 
   - ChatGPT-4 镜像，支持 GPT4、4o，使用简便。
