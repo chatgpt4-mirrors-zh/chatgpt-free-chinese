@@ -1,6 +1,6 @@
-# 国内中文免费ChatGPTo4镜像网站推荐【8月4日持续更新】
+# 国内中文免费ChatGPT4o镜像网站推荐【8月9日持续更新】
 
-想使用免费ChatGPT中文版？无需翻墙，支持ChatGPT4.1，可无限次使用GPT4o和o4mini。
+想使用免费ChatGPT中文版？无需翻墙，支持ChatGPT5，可无限次使用GPT4o和o4mini。
 
 我们整理了一些国内可免费使用的ChatGPT免费中文版，为国内用户提供便利。
 
